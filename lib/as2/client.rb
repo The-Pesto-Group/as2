@@ -1,4 +1,6 @@
 require 'net/http'
+require 'time'
+require 'base64'
 
 module As2
   class Client
